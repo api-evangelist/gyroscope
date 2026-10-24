@@ -1,0 +1,64 @@
+generated: '2026-10-24'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 4
+  own: 2
+  other_domain: 0
+  platform: 2
+  roles:
+  - api
+  - other
+  - website
+hosts:
+- host: api.gyrosco.pe
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: gyrosco.pe
+  role: api
+  relation: own
+- host: apps.apple.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: apple.com
+  role: other
+  relation: platform
+- host: gyrosco.pe
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Newsroom
+  - Login
+  - Documentation
+  - Website
+  - Blog
+  - Support
+  - PrivacyPolicy
+  - TermsOfService
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: gyrosco.pe
+  role: website
+  relation: own
+- host: youtube.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: youtube.com
+  role: other
+  relation: platform

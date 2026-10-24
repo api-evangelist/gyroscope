@@ -1,0 +1,59 @@
+# Gyroscope
+
+> Gyroscope is a health and wellness app for iPhone and Apple Watch that helps people track food, sleep, fitness, mood, places, blood biomarkers and their overall Health Score in one place. Gyroscope combines AI coaching with optional human coaching and accountability through Gyroscope One and Gyroscope Max. Through the MCP Bridge, people track their nutrition by chat and bring their Oura, Apple Health, Garmin and Whoop data and the places they go into ChatGPT, Claude and other AI assistants.
+
+## Primary Pages
+
+- [Gyroscope homepage](https://gyrosco.pe/): Overview of the Gyroscope health and wellness tracker.
+- [Gyroscope App](https://gyrosco.pe/app/): Download the iPhone app and learn what Gyroscope tracks.
+- [Gyroscope One](https://gyrosco.pe/one/): All-in-one membership for Health Score, food tracking, AI coaching, workouts and data storage.
+- [Gyroscope Max](https://gyrosco.pe/max/): Advanced membership combining AI coaching, human coaching and accountability.
+- [Products](https://gyrosco.pe/products/): Overview of Gyroscope products and memberships.
+- [Blood Test](https://gyrosco.pe/blood/): Home blood biomarker testing connected to Gyroscope insights.
+
+Gyroscope is primarily for iPhone users who want one private place for food, sleep, fitness, mood, location history, Apple Health and Apple Watch data, blood biomarkers, reports, Health Score and coaching. Gyroscope is not a medical provider and does not replace a doctor.
+
+## Product Features
+
+- [Health Score](https://gyrosco.pe/features/health-score/): Overall score and report card for health data.
+- [Food XRAY](https://gyrosco.pe/features/food-xray/): Food camera for nutrition tracking.
+- [Workout Programs](https://gyrosco.pe/features/workouts/): Custom workout programs and fitness tracking.
+- [Daily Report](https://gyrosco.pe/features/daily-report/): Daily summaries of sleep, food, mood, movement and trends.
+- [Mind Tracker](https://gyrosco.pe/features/mind/): Mood, meditation, productivity and mental health tracking.
+- [Gyroscope Places](https://gyrosco.pe/places/): Automatic travel tracker app. A private timeline and map of the places you visit, walks and trips.
+- [MCP Bridge](https://gyrosco.pe/mcp/): Connect Gyroscope to ChatGPT, Claude and other AI assistants by MCP. Track your nutrition by chat, track every place you go, and see your Oura, Apple Health, Garmin and Whoop data in one place, in any AI.
+- [Web Dashboard](https://gyrosco.pe/features/web/): Review Gyroscope trends and reports on the web.
+- [Data and Integrations](https://gyrosco.pe/data/): Apple Health, Apple Watch and connected data sources.
+
+## Gyroscope with AI Assistants
+
+- [How to track your nutrition with ChatGPT and Claude](https://gyrosco.pe/mcp/track-nutrition/): Tell ChatGPT or Claude what you ate and Gyroscope saves it to your food log with calories, protein, carbs and fat.
+- [How to track every place you go](https://gyrosco.pe/places/track-every-place/): Gyroscope Places records every visit, trip and walk on iPhone automatically, in a private timeline and map, and ChatGPT or Claude can see it when you allow it.
+- [How to bring your Oura, Apple Health, Garmin and Whoop data into ChatGPT and Claude](https://gyrosco.pe/mcp/wearables/): Every device merged into one Gyroscope history, then into any AI assistant.
+- [How to use the MCP Bridge](https://gyrosco.pe/help/mcp-bridge/): Setup steps for Claude, ChatGPT and other apps, and prompts to copy.
+
+## Proof and Education
+
+- [Member Stories](https://gyrosco.pe/stories/): Case studies, testimonials and member results.
+- [Science](https://gyrosco.pe/science/): Signature health quizzes with instant AI reports, plus featured science guides.
+- [Science Guides](https://gyrosco.pe/guides/): Health, nutrition, exercise and longevity guides.
+- [Bodyfat Guide](https://gyrosco.pe/guides/bodyfat-weight-loss/): Practical guide to sustainable fat loss.
+- [Muscle and Strength Guide](https://gyrosco.pe/guides/muscle-strength-building/): Strength training, hypertrophy and recovery.
+- [Longevity Guide](https://gyrosco.pe/guides/longevity-life-extension/): Longevity, healthspan, biomarkers and habits.
+- [Blog](https://gyrosco.pe/blog/): Product announcements and company updates.
+- [Story and Timeline](https://gyrosco.pe/timeline/): Product history, launch notes and the archived story of building Gyroscope.
+- [Videos](https://gyrosco.pe/videos/): Product demos and member story videos.
+- [YouTube](https://youtube.com/@gyroscope_app): Official Gyroscope video channel.
+
+## Product History
+
+- [Introducing Food XRAY](https://gyrosco.pe/timeline/2021-09-23/introducing-food-xray/): Launch story for Gyroscope food photo tracking and AI nutrition analysis.
+- [Meet your Health Score](https://gyrosco.pe/timeline/2019-07-10/meet-your-health-score/): Original Health Score announcement and health dashboard context.
+- [Building the Gyroscope App](https://gyrosco.pe/timeline/2016-06-16/building-the-app/): Behind-the-scenes story of the HealthKit app and early all-in-one tracking.
+- [Introducing Gyroscope](https://gyrosco.pe/timeline/2015-03-18/introducing-gyroscope/): Early product announcement for tracking life and health in one place.
+
+## Company
+
+- [Mission](https://gyrosco.pe/about/): Gyroscope mission and company story.
+- [Support](https://gyrosco.pe/support/): Help and support.
+- [App Store](https://apps.apple.com/us/app/gyroscope/id1104085053): Gyroscope on the Apple App Store.

@@ -1,0 +1,28 @@
+generated: '2026-10-24'
+method: probed
+source: live fetch of https://gyrosco.pe/privacy/
+signals:
+  data_subject_request:
+    - source: https://gyrosco.pe/privacy/
+      http_status: 200
+      fetched: true
+      quote: "You may delete your account at any time by visiting https://gyrosco.pe/delete. Once deleted, your data, including your account, username, or any other related content, cannot be restored."
+      note: Allows users to delete their data and account.
+  subprocessors:
+    - source: https://gyrosco.pe/privacy/
+      http_status: 200
+      fetched: true
+      quote: "We never sell your data, and AI providers never train on it."
+      note: States that no third parties are used for data selling or AI training.
+  incident_notification:
+    - source: https://gyrosco.pe/privacy/
+      http_status: 200
+      fetched: true
+      quote: "Aggregate information may be used for research, quality assurance, and improving the Gyroscope service—..."
+      note: No explicit incident notification clause found.
+  data_residency:
+    - source: https://gyrosco.pe/privacy/
+      http_status: 200
+      fetched: true
+      quote: "BY USING THE SERVICES, YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL DATA FOR PROCESSING IN THE UNITED STATES AS DESCRIBED IN THIS PRIVACY POLICY."
+      note: Data may be transferred to the United States.
